@@ -1,0 +1,46 @@
+{
+  "name": "ng2-summernote-angular4-es5",
+  "version": "0.1.31",
+  "description": "Summernote component for Angular4",
+  "main": "ng2-summernote-angular4.js",
+  "keywords": [
+    "angular2",
+    "summernote",
+    "wysiwyg",
+    "html"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mirushaki/ng2-alt-summernote.git"
+  },
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "typings": [
+    "./summernote.d.ts",
+    "./ng2-summernote-angular4.d.ts"
+  ],
+  "types": [
+    "./summernote.d.ts",
+    "./ng2-summernote-angular4.d.ts"
+  ],
+  "author": "Val Rudi",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "3.2.1",
+    "@angular/common": "^4.0.1",
+    "@angular/compiler": "^4.0.1",
+    "@angular/core": "^4.0.1",
+    "@angular/forms": "^4.0.1",
+    "@angular/platform-browser": "^4.0.1",
+    "@types/jquery": "^2.0.41",
+    "@types/core-js": "^0.9.41",
+    "core-js": "^2.4.1",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.5",
+    "bootstrap": "^3.3.7",
+    "summernote": "^0.8.3",
+    "codemirror": "^5.25.0"
+  },
+  "devDependencies": {}
+}
