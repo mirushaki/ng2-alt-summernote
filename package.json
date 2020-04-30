@@ -27,7 +27,7 @@
   "author": "Val Rudi",
   "license": "MIT",
   "dependencies": {
-    "jquery": "3.4.0",
+    "jquery": "3.5.0",
     "@angular/common": "^4.0.1",
     "@angular/compiler": "^4.0.1",
     "@angular/core": "^4.0.1",
